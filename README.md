@@ -1,2 +1,2 @@
 # stm32-svd
-collection of STM32 svd files
+Collection of STM32 .svd files.
